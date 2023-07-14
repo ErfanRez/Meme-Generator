@@ -1,4 +1,4 @@
-ort React from "react";
+import React from "react";
 
 
 export default function Meme()
@@ -30,3 +30,4 @@ export default function Meme()
             randomImage: url
         }))
     }
+}
